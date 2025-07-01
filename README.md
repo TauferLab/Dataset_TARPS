@@ -66,9 +66,11 @@ pip install -r requirements.txt
 
 ## Related Publications
 
-[1]<i class="fa fa-file-text-o"></i> O. Pearce, J. Burmark, R. Hornung, Befikir Bogale, I. Lumsden, M. McKinsey, D. Yokelson, D. Boehme, S. Brink, M. Taufer, and T. Scogland, “<b>Raja performance suite: Performance portability analysis with caliper and thicket</b>,” in Proceedings of SC24-W: Workshops of the International Conference for High Performance Computing, Networking, Storage and Analysis, Atlanta, GA, USA: IEEE Computer Society, Nov. 2024.</i>
+[1] B. Bogale, I. Lumsden, D. Sukkari, D. Yokelson, S. Brinkg, O. Pearce, and M. Taufer, "Surrogate Models for Analyzing Performance Behavior of HPC Applications using the RAJA Performance Suite," in Proceedings of the International Conference on Computational Science (ICCS), Singapore, Lecture Notes in Computer Science, vol. 15906, 2025, to appear. 
 
-[2]<i class="fa fa-file-text-o"></i> A. Yasin, “<b>A top-down method for performance analysis and counters architecture</b>,” in Proceedings of IEEE International Symposium on Performance Analysis of Systems and Software, Monterey, CA, USA: IEEE Computer Society, Mar. 2014.</i>
+[2] O. Pearce, J. Burmark, R. Hornung, Befikir Bogale, I. Lumsden, M. McKinsey, D. Yokelson, D. Boehme, S. Brink, M. Taufer, and T. Scogland, “RAJA Performance Suite: Performance Portability Analysis with Caliper and Thicket,” in Proceedings of Workshops of the International Conference for High Performance Computing, Networking, Storage and Analysis (SC24-W), Atlanta, GA, USA, 2024, doi: 10.1109/SCW63240.2024.00162.
+
+[3] A. Yasin, “A Top-Down Method for Performance Analysis and Counters Architecture,” in Proceedings of IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS), Monterey, CA, USA, 2014, doi: 10.1109/ISPASS.2014.6844459
 
 ## Copyright and License
 
