@@ -54,13 +54,13 @@ Make sure you are using ssh with GitHub and you have gcc compiler in your system
 1. Clone the source code from this repository
 
 ```
-git clone https://github.com/TauferLab/SRC_Benchpark_Data_Generation.git
+git clone https://github.com/TauferLab/Dataset_TARPS.git
 ```
 
 2. Install the necessary dependencies
 
 ```
-cd SRC_Benchpar_Data_Generation/
+cd Dataset_TARPS/
 pip install -r requirements.txt
 ```
 
