@@ -1,0 +1,4 @@
+pandas
+tqdm
+git+https://github.com/LLNL/thicket.git@develop
+plotly
