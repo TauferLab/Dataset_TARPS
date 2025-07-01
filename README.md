@@ -69,14 +69,16 @@ pip install -r requirements.txt
 [1]<i class="fa fa-file-text-o"></i> O. Pearce, J. Burmark, R. Hornung, Befikir Bogale, I. Lumsden, M. McKinsey, D. Yokelson, D. Boehme, S. Brink, M. Taufer, and T. Scogland, “<b>Raja performance suite: Performance portability analysis with caliper and thicket</b>,” in Proceedings of SC24-W: Workshops of the International Conference for High Performance Computing, Networking, Storage and Analysis, Atlanta, GA, USA: IEEE Computer Society, Nov. 2024.</i>
 
 [2]<i class="fa fa-file-text-o"></i> A. Yasin, “<b>A top-down method for performance analysis and counters architecture</b>,” in Proceedings of IEEE International Symposium on Performance Analysis of Systems and Software, Monterey, CA, USA: IEEE Computer Society, Mar. 2014.</i>
+
 ## Copyright and License
 
+Copyright (c) 2025, Lawrence Livermore National Security, LLC.
 
-Copyright (c) 2025, Global Computing Lab
+TARPS is distributed under the terms of the Creative Commons Attribution 4.0 International Public License.
 
-TARPS is distributed under terms of the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0) with LLVM Exceptions.
+See [LICENSE](LICENSE) for more details.
 
-See [LICENSE](https://github.com/TauferLab/SRC_Benchpark_Data_Generation/blob/main/LICENSE) for more details.
+Release Number: LLNL-DATA-2007855
 
 ## Acknowledgments
 
